@@ -1,16 +1,7 @@
-# assignment
+# Flutter User App UI
 
-A new Flutter project.
+![Capture](https://user-images.githubusercontent.com/64467248/121191451-d865f000-c820-11eb-9fad-ac248655fe7b.PNG)
 
-## Getting Started
+![Capture-3](https://user-images.githubusercontent.com/64467248/121191479-dbf97700-c820-11eb-9e60-15cc51fa276e.PNG)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Capture-2](https://user-images.githubusercontent.com/64467248/121191486-ddc33a80-c820-11eb-934b-9ce9562da8cf.PNG)
